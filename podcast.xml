@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>pidi Remixes</title>
+    <link>https://redretep.github.io/audio/</link>
+    <language>de</language>
+    <description>Remixes and audio edits by pidi.</description>
+    <itunes:author>pidi</itunes:author>
+    <itunes:summary>Remixes and audio edits by pidi.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    
+    <!-- Cover artwork must be 1400x1400 to 3000x3000 px (JPG/PNG) -->
+    <itunes:image href="https://redretep.github.io/audio/cover.jpg"/>
+    
+    <itunes:owner>
+      <itunes:name>pidi</itunes:name>
+      <itunes:email>peterdbaltes@gmail.com</itunes:email>
+    </itunes:owner>
+    
+    <itunes:category text="Music">
+      <itunes:category text="Music Commentary"/>
+    </itunes:category>
+
+    <!-- Episode: 39grad -->
+    <item>
+      <title>39grad</title>
+      <description>39grad remix</description>
+      <itunes:author>pidi</itunes:author>
+      <enclosure url="https://redretep.github.io/audio/39grad.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://redretep.github.io/audio/39grad.mp3</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode: 6nullen_x_queen_st -->
+    <item>
+      <title>6nullen x queen st</title>
+      <description>6nullen x queen st remix</description>
+      <itunes:author>pidi</itunes:author>
+      <enclosure url="https://redretep.github.io/audio/6nullen_x_queen_st.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://redretep.github.io/audio/6nullen_x_queen_st.mp3</guid>
+      <pubDate>Fri, 01 Aug 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode: Mama x Running Away (Time) -->
+    <item>
+      <title>Mama x Running Away (Time)</title>
+      <description>Mama x Running Away (Time) remix</description>
+      <itunes:author>pidi</itunes:author>
+      <enclosure url="https://redretep.github.io/audio/Mama%20x%20Running%20Away%20(Time).mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://redretep.github.io/audio/Mama%20x%20Running%20Away%20(Time).mp3</guid>
+      <pubDate>Fri, 01 Aug 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode: ac bleiben x my love -->
+    <item>
+      <title>ac bleiben x my love</title>
+      <description>ac bleiben x my love remix</description>
+      <itunes:author>pidi</itunes:author>
+      <enclosure url="https://redretep.github.io/audio/ac%20bleiben%20x%20my%20love.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://redretep.github.io/audio/ac%20bleiben%20x%20my%20love.mp3</guid>
+      <pubDate>Fri, 01 Aug 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode: bad bunnies x paris freestyle -->
+    <item>
+      <title>bad bunnies x paris freestyle</title>
+      <description>bad bunnies x paris freestyle remix</description>
+      <itunes:author>pidi</itunes:author>
+      <enclosure url="https://redretep.github.io/audio/bad%20bunnies%20x%20paris%20freestyle.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://redretep.github.io/audio/bad%20bunnies%20x%20paris%20freestyle.mp3</guid>
+      <pubDate>Fri, 01 Aug 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode: bmw-x-denkmal -->
+    <item>
+      <title>BMW x Denkmal (hol den Vorschlaghammer)</title>
+      <description>BMW x Denkmal remix</description>
+      <itunes:author>pidi</itunes:author>
+      <enclosure url="https://redretep.github.io/audio/bmw-x-denkmal.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://redretep.github.io/audio/bmw-x-denkmal.mp3</guid>
+      <pubDate>Fri, 01 Aug 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode: denkmal-hoodtrap -->
+    <item>
+      <title>denkmal hoodtrap instrumental</title>
+      <description>denkmal hoodtrap instrumental</description>
+      <itunes:author>pidi</itunes:author>
+      <enclosure url="https://redretep.github.io/audio/denkmal-hoodtrap.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://redretep.github.io/audio/denkmal-hoodtrap.mp3</guid>
+      <pubDate>Fri, 01 Aug 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode: headlock-x-topfit -->
+    <item>
+      <title>headlock x topfit</title>
+      <description>headlock x topfit remix</description>
+      <itunes:author>pidi</itunes:author>
+      <enclosure url="https://redretep.github.io/audio/headlock-x-topfit.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://redretep.github.io/audio/headlock-x-topfit.mp3</guid>
+      <pubDate>Fri, 01 Aug 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode: heads will roll x legday -->
+    <item>
+      <title>heads will roll x legday</title>
+      <description>heads will roll x legday remix</description>
+      <itunes:author>pidi</itunes:author>
+      <enclosure url="https://redretep.github.io/audio/heads%20will%20roll%20x%20legday.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://redretep.github.io/audio/heads%20will%20roll%20x%20legday.mp3</guid>
+      <pubDate>Fri, 01 Aug 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode: maxi king remix -->
+    <item>
+      <title>maxi king remix</title>
+      <description>maxi king remix</description>
+      <itunes:author>pidi</itunes:author>
+      <enclosure url="https://redretep.github.io/audio/maxi%20king%20remix.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://redretep.github.io/audio/maxi%20king%20remix.mp3</guid>
+      <pubDate>Fri, 01 Aug 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
